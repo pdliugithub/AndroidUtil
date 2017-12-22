@@ -17,7 +17,7 @@
 
 >## Medal
 
-  [！[]（https://jitpack.io/v/pdliugithub/AndroidUtil.svg）（https://jitpack.io/#pdliugithub/AndroidUtil）
+  [！[Medal]（https://jitpack.io/v/pdliugithub/AndroidUtil.svg）（https://jitpack.io/#pdliugithub/AndroidUtil）
 
 
                          \\           //
